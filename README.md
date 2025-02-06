@@ -34,3 +34,12 @@ This already includes the libraries needed for the assignment
 
     ```bash
     pip install -r requirements.txt
+
+6. **Running your notebook**
+
+Make sure that, when open your notebook, this is running in the virtual environment. It should look like this in Visual Studio Code
+
+![](https://private-user-images.githubusercontent.com/83436724/410678915-74bdb07e-1ca8-4dec-8d28-8335926a0b08.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzg4ODEwMzcsIm5iZiI6MTczODg4MDczNywicGF0aCI6Ii84MzQzNjcyNC80MTA2Nzg5MTUtNzRiZGIwN2UtMWNhOC00ZGVjLThkMjgtODMzNTkyNmEwYjA4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjA2VDIyMjUzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc0YTA1YmYwNWZlOTEwODk5NWJiYjNmYzI0N2Q2MmRlMzQ1ZWI2ZTRjMDc5ZjQ1ZTNjMzZkZTI1MDdhZDc1ZmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.qdjXQDtW0QPTE3saXWPcogM8aua-vI_UJTB8USFFMyc)
+
+
+Refer to `example_notebooks.ipynb` on this repo to see an example of the application of the libraries.
